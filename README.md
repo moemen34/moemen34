@@ -24,28 +24,6 @@ Here are some ideas to get you started:
 
 
 
-<div style="display: flex; justify-content: space-between;">
-
-<!-- Left Column -->
-<div style="flex: 1; padding-right: 10px;">
-
-### Left Column Content
-
-This is the content for the left column.
-
-</div>
-
-<!-- Right Column -->
-<div style="flex: 1; padding-left: 10px;">
-
-### Right Column Content
-
-This is the content for the right column.
-
-</div>
-
-</div>
-
 
 
 
