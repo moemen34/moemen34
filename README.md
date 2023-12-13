@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages:</h3>
-<ul align="left">
-  <li><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">C</a></li>
-  <li><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">C#</a></li>
-  <li><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">CSS</a></li>
-  <li><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">HTML5</a></li>
-  <li><a href="https://www.java.com" target="_blank" rel="noreferrer">Java</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a></li>
-</ul>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">C</a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">C#</a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">CSS</a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">HTML5</a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">Java</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a>
+</p>
 
 <h3 align="left">Front-end development:</h3>
 <p align="left">
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <h3 align="left">Cloud:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://www.facebook.com/photo/?fbid=634622672031648&set=a.634622678698314" alt="aws" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
 </p>
 
