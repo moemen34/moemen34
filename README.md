@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <h3 align="left">Cloud:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+      <img src="https://www.facebook.com/photo/?fbid=634622672031648&set=a.634622678698314" alt="aws" width="40" height="40" />
   </a>
 </p>
 
