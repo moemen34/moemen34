@@ -152,6 +152,35 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## Languages:
+
+- [C](https://www.cprogramming.com/)
+- [C#](https://www.w3schools.com/cs/)
+- [CSS](https://www.w3schools.com/css/)
+- [HTML5](https://www.w3.org/html/)
+- [Java](https://www.java.com)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Front-end Tech:
+
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![React Native](https://reactnative.dev/img/header_logo.svg)
+![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
+![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+
+## Back-end Tech:
+
+![ASP.NET Core](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg)
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
+
+## Frameworks:
+
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+
+## Cloud:
+
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
 
 
 
