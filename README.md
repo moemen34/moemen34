@@ -94,4 +94,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moemen34&layout=donut&theme=transparent)](https://github.com/moemen34/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moemen34&repo=Exploiting-Wordpress-Vulnerabilities&theme=transparent)](https://github.com/moemen34/Exploiting-Wordpress-Vulnerabilities)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moemen34&repo=Exploiting-Wordpress-Vulnerabilities&theme=transparent)](https://github.com/moemen34/Exploiting-Wordpress-Vulnerabilities) -->
